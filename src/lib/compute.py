@@ -28,10 +28,22 @@ class Compute:
 
 # Exercise 2: Examining Differences Between Files
 
-    def multiply(self):
-            sum  = 1
-            for item in self.operands:
-            sum *= item
-    print(sum)
+     def multiply(self):
+        if self.operands is None:
+            return
+        product = 1
+        for item in self.operands:
+        product *= item
+    print(product)
+
+    
+# Exercise 3: Adding Files to the Index
+
+ def subtract(self):
+        difference = 0
+        for item in self.operands:
+        difference -= item
+    print(difference)
+
 
     
