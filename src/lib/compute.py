@@ -25,3 +25,13 @@ class Compute:
     def multiply(self):
         pass
 
+
+# Exercise 2: Examining Differences Between Files
+
+    def multiply(self):
+            sum  = 1
+            for item in self.operands:
+            sum *= item
+    print(sum)
+
+    
