@@ -28,7 +28,7 @@ class Compute:
 
 # Exercise 2: Examining Differences Between Files
 
-     def multiply(self):
+    def multiply(self):
         if self.operands is None:
             return
         product = 1
@@ -39,11 +39,10 @@ class Compute:
     
 # Exercise 3: Adding Files to the Index
 
- def subtract(self):
+    def subtract(self):
         difference = 0
         for item in self.operands:
         difference -= item
     print(difference)
 
 
-    
