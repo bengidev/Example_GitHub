@@ -1,2 +1,0 @@
-# Scientific arithmetic module example
-
