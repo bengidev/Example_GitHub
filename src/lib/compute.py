@@ -46,12 +46,3 @@ class Compute:
     print(difference)
 
 
-# Exercise 4: Reversing Changes
-
-    def division(self):
-        quotient = 1
-        for item in self.operands:
-        quotient /= item
-    print(quotient)
-
-
