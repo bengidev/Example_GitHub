@@ -1,5 +1,5 @@
 #Example GitHub Project
-
+[![CircleCI](https://circleci.com/gh/syndicate017/Example_GitHub.svg?style=svg)](https://circleci.com/gh/syndicate017/Example_GitHub)
 
 Project name is a Example GitHub Project that allows you to use a command line based Calculator.
 
